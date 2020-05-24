@@ -38,6 +38,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
+      title: 'Webpack Workflow',
       template: './src/index.handlebars',
       minify: {
         collapseWhitespace: true,
