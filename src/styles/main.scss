@@ -1,0 +1,12 @@
+@import 'variables';
+
+body {
+  background: $background-color;
+  color: $text-color;
+}
+
+.footer {
+  background-color: red;
+  color: yellow;
+}
+
