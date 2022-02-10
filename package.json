@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "handlebars": "^4.7.6",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
